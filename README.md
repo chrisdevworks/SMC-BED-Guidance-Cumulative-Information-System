@@ -9,10 +9,14 @@
 ![localhost_Guidancebed_web_login php](https://user-images.githubusercontent.com/15859284/171683300-99c0e972-40de-4c7c-bc28-fdce77a86749.png)
 
 #### ⋆ Admin Dashboard
-![localhost_Guidancebed_web_index php_page=home](https://user-images.githubusercontent.com/15859284/171683663-1f35b80c-257d-451a-9d6f-cfa588ba1811.png)
+![image](https://user-images.githubusercontent.com/15859284/171684582-90cc3378-d711-44e2-b1fe-94dfd6befd62.png)
 
 #### ⋆ Add a News Post
-![localhost_Guidancebed_web_index php_page=new_news](https://user-images.githubusercontent.com/15859284/171683989-3d28e4a6-2ed0-42b3-b781-0b25368722b5.png)
+![image](https://user-images.githubusercontent.com/15859284/171684734-6e5d5bf6-11f0-4165-9524-0dfdb4b3616b.png)
 
 #### ⋆ List of News
-![localhost_Guidancebed_web_index php_page=news_list](https://user-images.githubusercontent.com/15859284/171684011-84dcfc35-6196-4396-9b9e-ccdb71cf29b3.png)
+![image](https://user-images.githubusercontent.com/15859284/171684825-17df1d34-602a-4675-90c7-907aff25a382.png)
+
+#### ⋆ Create and Edit User Accounts
+
+#### ⋆ List of User Accounts
