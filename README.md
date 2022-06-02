@@ -32,7 +32,7 @@
 #### ⋆ View a Test with List of Questions including Create, Edit and Delete Question Functions
 ![image](https://user-images.githubusercontent.com/15859284/171685478-2fd7a4bf-c392-4494-882b-010db6b2a228.png)
 
-#### ⋆ Create a Question Preview with 3 types of category being Single/Radio Button, Multiple/Checkboxes and Paragraph/Textarea
+#### ⋆ Create a Question Preview with 3 types of Answers including Single/Radio Button, Multiple/Checkboxes and Paragraph/Textarea
 ![image](https://user-images.githubusercontent.com/15859284/171685635-9f8148ac-801d-4e4a-b5af-6d756c2763de.png)
 
 #### ⋆ Test Report and Test Takers with Search functions
