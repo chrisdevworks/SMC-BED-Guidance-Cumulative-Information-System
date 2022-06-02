@@ -49,3 +49,16 @@
 
 #### ⋆ Student Dashboard with Personal Info and Picture including Create and Edit Form Function
 ![image](https://user-images.githubusercontent.com/15859284/171688133-811ecaca-696e-4d22-a381-e7409de71ba4.png)
+
+#### ⋆ Test Widget Page to View Currently Available Tests Scheduled
+![image](https://user-images.githubusercontent.com/15859284/171688437-7b208e8b-997f-472e-a287-559bf238bfd2.png)
+
+#### ⋆ Answer Page
+![image](https://user-images.githubusercontent.com/15859284/171688737-72422626-f8db-4ed6-97f1-3db82f798daa.png)
+
+#### ⋆ Schedule Appointment Page
+![image](https://user-images.githubusercontent.com/15859284/171688875-be5f308f-8876-44b9-a14d-8cf43f7e4003.png)
+
+#### ⋆ Appointment History with Search and Sort Table Function including Edit and Delete Appointments
+![image](https://user-images.githubusercontent.com/15859284/171688976-54756d3c-8c85-493b-ae4f-197c0f897446.png)
+
