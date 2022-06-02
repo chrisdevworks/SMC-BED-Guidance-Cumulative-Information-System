@@ -3,7 +3,7 @@
 
 
 #### ⋆ Main Page
-![image](https://user-images.githubusercontent.com/15859284/171689476-3c9a64af-103c-4a28-af69-d0f765d8d3ad.png)
+![image](https://user-images.githubusercontent.com/15859284/171689857-1a1b1a15-60af-4e45-8939-1eda0a0275d8.png)
 
 #### ⋆ Login Page with Video Background
 ![localhost_Guidancebed_web_login php](https://user-images.githubusercontent.com/15859284/171683300-99c0e972-40de-4c7c-bc28-fdce77a86749.png)
