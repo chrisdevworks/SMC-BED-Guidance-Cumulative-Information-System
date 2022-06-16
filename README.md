@@ -26,7 +26,7 @@
 #### ⋆ Create and Edit Test
 ![image](https://user-images.githubusercontent.com/15859284/171685075-8aa29135-5a60-44e1-b040-a600211b423f.png)
 
-#### ⋆ List of Tests with  Search and Sort table functions and View, Edit and Delete Test Functions
+#### ⋆ Tests List with Search, Sort, View, Edit and Delete Test Functions
 ![image](https://user-images.githubusercontent.com/15859284/171685330-89b7048d-d999-41eb-aeb4-431c6fec4954.png)
 
 #### ⋆ View a Test with List of Questions including Create, Edit and Delete Question Functions
