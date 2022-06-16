@@ -47,7 +47,7 @@
 #### ⋆ Admin Side Appointment List with Accept and Deny Functions to notify student
 ![image](https://user-images.githubusercontent.com/15859284/171687495-92ee9120-6370-48fc-834f-b609cbbe7eb2.png)
 
-#### ⋆ Student Dashboard with Personal Info and Picture including Create and Edit Form Function
+#### ⋆ Student Dashboard with Personal Info and Picture including Edit Form Function
 ![image](https://user-images.githubusercontent.com/15859284/171688133-811ecaca-696e-4d22-a381-e7409de71ba4.png)
 
 #### ⋆ Test Widget Page to View Currently Available Tests Scheduled
