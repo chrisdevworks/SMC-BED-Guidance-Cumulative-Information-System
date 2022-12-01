@@ -1,9 +1,3 @@
-# SMC-BED-Guidance-Cumulative-Information-System
-### A project requisite for On-The-Job-Training Curriculum in Computer Science at Saint Michael's College, Iligan
-
-#### Meet The Team
-![image](https://user-images.githubusercontent.com/15859284/183614709-945948cf-a829-4b4f-b966-60eb1d4f234d.jpg)
-
 #### ⋆ Main Page
 ![image](https://user-images.githubusercontent.com/15859284/171689857-1a1b1a15-60af-4e45-8939-1eda0a0275d8.png)
 
